@@ -1,0 +1,6 @@
+{
+  "project": "AI Frontier Research Agent",
+  "description": "Autonomous AI agent that monitors frontier AI labs and generates daily investment research briefs",
+  "primary_language": "python",
+  "agents": ["scraper", "summarizer", "report_generator"]
+}

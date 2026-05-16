@@ -1,0 +1,8 @@
+anthropic
+langchain
+beautifulsoup4
+requests
+streamlit
+faiss-cpu
+pandas
+python-dotenv
